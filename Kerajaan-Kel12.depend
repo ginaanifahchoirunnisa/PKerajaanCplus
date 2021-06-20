@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1624115274 source:f:\tugas akhir 2\sda p\koding\kerajaan-kel12\kingdom.cpp
+	"kingdom.h"
+	<string.h>
+	<iostream>
+	<stdlib.h>
+
+1624002266 f:\tugas akhir 2\sda p\koding\kerajaan-kel12\kingdom.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<math.h>
+	<ctype.h>
+	<stdbool.h>
+	<string.h>
+	<iostream>
+
+1624115316 source:f:\tugas akhir 2\sda p\koding\kerajaan-kel12\main.cpp
+	<stdio.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"kingdom.h"
+
